@@ -14,6 +14,8 @@
 
 [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) [Notes](http://www.holehouse.org/mlclass/)
 
+[ML2017FALL](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
+
 [Machine Learing with Python](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 
 [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/schedule)
