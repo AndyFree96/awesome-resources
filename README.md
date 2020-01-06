@@ -34,6 +34,8 @@
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+[40 Must-Read AI / Machine Learning Blogs](https://www.springboard.com/blog/machine-learning-blog/)
+
 ## Recommendation System
 
 [Comprehensive Guide to build a Recommendation Engine from scratch (in Python)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
@@ -47,6 +49,8 @@
 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
 
 ## Deep Learning
+
+[Practical Deep Learning for Coders](https://course.fast.ai/index.html)
 
 [深度学习入门：基于Python的理论与实现](https://book.douban.com/subject/30270959/)
 
