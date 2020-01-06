@@ -47,3 +47,7 @@
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 [Medium](https://medium.com/)
+
+[DEV](https://dev.to/)
+
+[MDN web docs](https://developer.mozilla.org/)
