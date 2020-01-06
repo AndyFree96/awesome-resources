@@ -1,5 +1,13 @@
 # awesome-resources
 
+## C
+
+[Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+
+## Python
+
+[Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
+
 ## Generative Adversarial Networks
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers): The classical paper list with code about generative adversial nets.
@@ -51,3 +59,5 @@
 [DEV](https://dev.to/)
 
 [MDN web docs](https://developer.mozilla.org/)
+
+[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed_navbar)
