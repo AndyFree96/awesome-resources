@@ -8,9 +8,17 @@
 
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
 
+## Java
+
+[Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+
 ## Linux
 
 [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
+
+## Coding
+
+[Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 
 ## Generative Adversarial Networks
 
