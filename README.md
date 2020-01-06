@@ -48,6 +48,8 @@
 
 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
 
+[Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/): A Free course in Deep Reinforcement Learning from beginner to expert.
+
 ## Deep Learning
 
 [Practical Deep Learning for Coders](https://course.fast.ai/index.html)
