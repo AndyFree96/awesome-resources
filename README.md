@@ -20,6 +20,18 @@
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 
+## Data Structure & Algorithms
+
+[What is your strategy for learning data structures and algorithms?](https://www.freecodecamp.org/forum/t/what-is-your-strategy-for-learning-data-structures-and-algorithms/86995/5)
+
+[The BEST way to learn Data Structures and Algorithms](http://codedad.co.uk/best-way-learn-data-structures-algorithms/)
+
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+
+## Kaggle
+
+[The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
+
 ## Generative Adversarial Networks
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers): The classical paper list with code about generative adversial nets.
