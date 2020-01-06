@@ -8,6 +8,10 @@
 
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
 
+## Linux
+
+[The Linux Command Line](http://billie66.github.io/TLCL/index.html)
+
 ## Generative Adversarial Networks
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers): The classical paper list with code about generative adversial nets.
