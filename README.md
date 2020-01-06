@@ -22,6 +22,12 @@
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+## Recommendation System
+
+[Comprehensive Guide to build a Recommendation Engine from scratch (in Python)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
+
+## Matplotlib
+
 [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)
 
 ## Reinforcement Learning
@@ -39,3 +45,5 @@
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+[Medium](https://medium.com/)
