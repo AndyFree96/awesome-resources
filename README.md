@@ -24,6 +24,10 @@
 
 ## C
 
+[Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
+
+[Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm#features)
+
 [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## C++
