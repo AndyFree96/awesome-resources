@@ -28,6 +28,18 @@
 
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
+[Learn data structures from scratch in C, Java and Python](https://www.codesdope.com/course/data-structures-introduction/)
+
+[CS 61B Data Structures, Fall 2019](https://inst.eecs.berkeley.edu/~cs61b/fa19/index.html)
+
+Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
+
+邓俊辉 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) 和 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about)
+
+[Data Structure by Saurabh Shukla Sir - YouTube](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
+
+[Data Structures Tutorial Videos | Mr. Srinivas - YouTube](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
+
 ## Kaggle
 
 [The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
