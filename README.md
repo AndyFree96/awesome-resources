@@ -8,6 +8,20 @@
 
 陆俊林 [计算机组成](https://zh.coursera.org/learn/jisuanji-zucheng)
 
+## 操作系统
+
+向勇 [操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X_tv+2015_T1/about)
+
+[6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2014/schedule.html)
+
+## 数据库
+
+[6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)
+
+## 分布式系统
+
+[6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2015/)
+
 ## C
 
 [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
