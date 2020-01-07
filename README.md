@@ -1,10 +1,16 @@
 # awesome-resources
 
+## 计算机科学导论
+
+[计算机科学速成课 - Crash Course Computer Science](https://www.bilibili.com/video/av21376839)
+
 ## C
 
 [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## Python
+
+[计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
 
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
 
@@ -39,6 +45,16 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Data Structure by Saurabh Shukla Sir - YouTube](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
 
 [Data Structures Tutorial Videos | Mr. Srinivas - YouTube](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
+
+## Math
+
+[麻省理工学院公开课：单变量微积分](http://open.163.com/special/sp/singlevariablecalculus.html) 和 [麻省理工学院公开课：单变量微积分习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcalculus.html)
+
+[麻省理工学院公开课：多变量微积分](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmultivariable.html) 和 [麻省理工学院公开课：多变量微积分习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fduobianliangweijifen.html)
+
+[麻省理工公开课：线性代数](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html) 和 [麻省理工学院公开课：MIT线性代数习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmitxianxingdaishuxitike.html)
+
+葉丙成 [頑想學概率：機率一](https://zh.coursera.org/learn/prob1) 和 [頑想學概率：機率二](https://zh.coursera.org/learn/prob2)
 
 ## Kaggle
 
