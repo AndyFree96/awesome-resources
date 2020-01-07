@@ -32,7 +32,7 @@
 
 [CS106X: Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/index.html)
 
-[CS106B: Programming Abstractions in C++](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1202/) [B站观看](https://www.bilibili.com/video/av36351060)
+[CS106B: Programming Abstractions in C++](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1202/) [B站](https://www.bilibili.com/video/av36351060)观看
 
 ## Python
 
@@ -66,7 +66,7 @@
 
 Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 
-邓俊辉 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) 和 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about)
+邓俊辉 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) 和 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) [数据结构(C++语言版)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
 
 [Data Structure by Saurabh Shukla Sir - YouTube](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
 
