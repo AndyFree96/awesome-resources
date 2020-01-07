@@ -8,6 +8,10 @@
 
 [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
+## C++
+
+郑莉 [C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about) 和 [C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about)
+
 ## Python
 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
