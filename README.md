@@ -30,6 +30,10 @@
 
 郑莉 [C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about) 和 [C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about)
 
+[CS106X: Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/index.html)
+
+[CS106B: Programming Abstractions in C++](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1202/) [B站观看](https://www.bilibili.com/video/av36351060)
+
 ## Python
 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
