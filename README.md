@@ -4,6 +4,10 @@
 
 [计算机科学速成课 - Crash Course Computer Science](https://www.bilibili.com/video/av21376839)
 
+## 计算机组成
+
+陆俊林 [计算机组成](https://zh.coursera.org/learn/jisuanji-zucheng)
+
 ## C
 
 [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
