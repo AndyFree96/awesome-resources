@@ -8,6 +8,8 @@
 
 陆俊林 [计算机组成](https://zh.coursera.org/learn/jisuanji-zucheng)
 
+[CSE 351: The Hardware/Software Interface](https://courses.cs.washington.edu/courses/cse351/16sp/index.html)
+
 ## 操作系统
 
 向勇 [操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X_tv+2015_T1/about)
@@ -51,6 +53,8 @@
 ## Python
 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
+
+[CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)
 
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
 
@@ -147,6 +151,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 [Keras and Convolutional Neural Networks (CNNs)](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/)
+
+## Self-Driving Cars
+
+[MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 
 ## Websites
 
