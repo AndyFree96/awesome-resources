@@ -30,6 +30,8 @@
 
 [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
+[Tinyhttpd](https://github.com/EZLippi/Tinyhttpd): Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。
+
 ## C++
 
 郑莉 [C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about) 和 [C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about)
@@ -37,6 +39,8 @@
 [CS106X: Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/index.html)
 
 [CS106B: Programming Abstractions in C++](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1202/) [B站](https://www.bilibili.com/video/av36351060)观看
+
+[muduo](https://github.com/chenshuo/muduo): Event-driven network library for multi-threaded Linux server in C++11.
 
 ## Python
 
