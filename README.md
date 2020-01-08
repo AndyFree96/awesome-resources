@@ -42,6 +42,10 @@
 
 [muduo](https://github.com/chenshuo/muduo): Event-driven network library for multi-threaded Linux server in C++11.
 
+[MyTinySTL](https://github.com/Alinshans/MyTinySTL): Achieve a tiny STL in C++11.
+
+[musikcube](https://github.com/clangen/musikcube): a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++.
+
 ## Python
 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
