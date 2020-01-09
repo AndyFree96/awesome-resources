@@ -24,6 +24,8 @@
 
 ## 分布式系统
 
+[Distributed Systems](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
+
 [6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2015/)
 
 ## 计算机网络
@@ -35,6 +37,12 @@
 华保健 [编译原理](https://mooc.study.163.com/course/1000002001#/info)
 
 [Compilers](https://web.stanford.edu/class/cs143/index2018.html) [B站](https://www.bilibili.com/video/av27845355/)观看
+
+[Compiler Design](https://www.youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
+
+## 密码学
+
+[Christof Paar - Introduction to Cryptography](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
 
 ## C
 
@@ -61,6 +69,8 @@
 [MyTinySTL](https://github.com/Alinshans/MyTinySTL): Achieve a tiny STL in C++11.
 
 [musikcube](https://github.com/clangen/musikcube): a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++.
+
+[C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ## Python
 
@@ -109,6 +119,10 @@
 ## Coding
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
+
+## 游戏
+
+[Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
 
 ## Data Structure & Algorithms
 
@@ -216,6 +230,18 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [哈佛大学公开课：幸福课](http://open.163.com/special/positivepsychology/)
 
+## Youtube
+
+[Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
+
+[Derek Banas](https://www.youtube.com/user/derekbanas): I make tutorials based on your requests. I will cover any topic you can imagine. I upload new programming videos on Saturday and Wednesday morning. I Live Stream at 8PM EST on Monday and at 7PM EST on Tuesday, Thursday and Friday.
+
+[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ): Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.
+
+[The Cherno](https://www.youtube.com/user/TheChernoProject)
+
+[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
@@ -237,3 +263,5 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Coursera](https://www.coursera.org/browse)
 
 [edureka!](https://www.edureka.co/blog/)
+
+[Software Engineering Daily](https://softwareengineeringdaily.com/)
