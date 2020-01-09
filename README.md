@@ -72,6 +72,10 @@
 
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
+## Go
+
+[Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
@@ -199,6 +203,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+[Hacker Noon](https://hackernoon.com/)
 
 [Medium](https://medium.com/)
 
