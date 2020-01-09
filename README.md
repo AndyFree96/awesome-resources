@@ -62,6 +62,10 @@
 
 ## Java
 
+[Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+
+[CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
+
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
 ## Linux
