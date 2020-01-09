@@ -98,6 +98,8 @@
 
 [The Best Linux Tutorials](https://www.freecodecamp.org/news/the-best-linux-tutorials/)
 
+[Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+
 [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 
 [Unix & Linux大学教程](https://book.douban.com/subject/4253716/)
