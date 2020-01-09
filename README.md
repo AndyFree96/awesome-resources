@@ -182,6 +182,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) [Notes](http://www.holehouse.org/mlclass/)
 
+[CS229: Machine Learning](http://cs229.stanford.edu/)
+
 [ML2017FALL](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
 
 [Machine Learing with Python](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
@@ -215,6 +217,14 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 [Keras and Convolutional Neural Networks (CNNs)](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/)
+
+## CV
+
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+## NLP
+
+[CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
 
 ## Self-Driving Cars
 
