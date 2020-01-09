@@ -4,6 +4,8 @@
 
 [计算机科学速成课 - Crash Course Computer Science](https://www.bilibili.com/video/av21376839)
 
+[哈佛大学公开课：计算机科学cs50](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcs50.html)
+
 ## 计算机组成
 
 陆俊林 [计算机组成](https://zh.coursera.org/learn/jisuanji-zucheng)
@@ -66,6 +68,8 @@
 
 [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 
+[Unix & Linux大学教程](https://book.douban.com/subject/4253716/)
+
 ## Coding
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
@@ -97,6 +101,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [麻省理工学院公开课：多变量微积分](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmultivariable.html) 和 [麻省理工学院公开课：多变量微积分习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fduobianliangweijifen.html)
 
 [麻省理工公开课：线性代数](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html) 和 [麻省理工学院公开课：MIT线性代数习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmitxianxingdaishuxitike.html)
+
+[麻省理工学院公开课：微分方程](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fequations.html)
 
 葉丙成 [頑想學概率：機率一](https://zh.coursera.org/learn/prob1) 和 [頑想學概率：機率二](https://zh.coursera.org/learn/prob2)
 
