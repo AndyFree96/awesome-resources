@@ -26,6 +26,16 @@
 
 [6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2015/)
 
+## 计算机网络
+
+[Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
+
+## 编译原理
+
+华保健 [编译原理](https://mooc.study.163.com/course/1000002001#/info)
+
+[Compilers](https://web.stanford.edu/class/cs143/index2018.html) [B站](https://www.bilibili.com/video/av27845355/)观看
+
 ## C
 
 [Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
