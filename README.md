@@ -193,3 +193,7 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed_navbar)
 
 [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+
+[纪录片天地](http://www.jlpcn.net)
+
+[Coursera](https://www.coursera.org/browse)
