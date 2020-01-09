@@ -106,6 +106,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 葉丙成 [頑想學概率：機率一](https://zh.coursera.org/learn/prob1) 和 [頑想學概率：機率二](https://zh.coursera.org/learn/prob2)
 
+马昱春 [组合数学](http://www.xuetangx.com/courses/course-v1:TsinghuaX+60240013X+sp/about)
+
 ## Kaggle
 
 [The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
@@ -161,6 +163,14 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 ## Self-Driving Cars
 
 [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+
+## 哲学
+
+[哈佛大学公开课：公正-该如何做是好？](http://open.163.com/special/justice/)
+
+## 心理
+
+[哈佛大学公开课：幸福课](http://open.163.com/special/positivepsychology/)
 
 ## Websites
 
