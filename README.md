@@ -96,9 +96,13 @@
 
 ## Linux
 
+[The Best Linux Tutorials](https://www.freecodecamp.org/news/the-best-linux-tutorials/)
+
 [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 
 [Unix & Linux大学教程](https://book.douban.com/subject/4253716/)
+
+[Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 
 ## Coding
 
