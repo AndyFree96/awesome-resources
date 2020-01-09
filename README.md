@@ -174,6 +174,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [哈佛大学公开课：公正-该如何做是好？](http://open.163.com/special/justice/)
 
+[耶鲁大学公开课：哲学-死亡](http://open.163.com/special/sp/philosophy-death.html)
+
 ## 心理
 
 [哈佛大学公开课：幸福课](http://open.163.com/special/positivepsychology/)
