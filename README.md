@@ -219,3 +219,5 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [纪录片天地](http://www.jlpcn.net)
 
 [Coursera](https://www.coursera.org/browse)
+
+[edureka!](https://www.edureka.co/blog/)
