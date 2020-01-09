@@ -58,6 +58,8 @@
 
 [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)
 
+[Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
 
 ## Java
@@ -66,7 +68,17 @@
 
 [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 
+[Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
+
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
+
+## JavaScript
+
+[JavaScript Tutorial](https://www.w3schools.com/js/)
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
+[JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
 
 ## Linux
 
