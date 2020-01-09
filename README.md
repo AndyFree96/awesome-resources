@@ -94,6 +94,12 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Data Structures Tutorial Videos | Mr. Srinivas - YouTube](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j)
 
+[Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
+[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+
+[Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+
 ## Math
 
 [麻省理工学院公开课：单变量微积分](http://open.163.com/special/sp/singlevariablecalculus.html) 和 [麻省理工学院公开课：单变量微积分习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcalculus.html)
