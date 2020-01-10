@@ -260,6 +260,12 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
 
+[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision): A curated list of awesome computer vision resources.
+
+[awesome-nlp](https://github.com/keon/awesome-nlp): 📖 A curated list of resources dedicated to Natural Language Processing (NLP).
+
+[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning): A curated list of awesome Deep Learning tutorials, projects and communities.
+
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
