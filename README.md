@@ -256,6 +256,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 
+## List
+
+[computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
+
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
@@ -279,3 +283,5 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [edureka!](https://www.edureka.co/blog/)
 
 [Software Engineering Daily](https://softwareengineeringdaily.com/)
+
+[MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
