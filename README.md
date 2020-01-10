@@ -162,6 +162,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 葉丙成 [頑想學概率：機率一](https://zh.coursera.org/learn/prob1) 和 [頑想學概率：機率二](https://zh.coursera.org/learn/prob2)
 
+[Intro to Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
+
+[Intro to Inferential Statistics](https://classroom.udacity.com/courses/ud201)
+
 马昱春 [组合数学](http://www.xuetangx.com/courses/course-v1:TsinghuaX+60240013X+sp/about)
 
 ## Kaggle
