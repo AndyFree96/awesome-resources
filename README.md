@@ -272,6 +272,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning): A curated list of awesome Deep Learning tutorials, projects and communities.
 
+[awesome-courses](https://github.com/prakhar1989/awesome-courses): 📚 List of awesome university courses for learning Computer Science!
+
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
