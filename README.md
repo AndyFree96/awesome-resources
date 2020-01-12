@@ -254,7 +254,13 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [The Cherno](https://www.youtube.com/user/TheChernoProject)
 
-[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): We're an open source community of busy people who learn to code and build projects for nonprofits.
+
+[StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw): Statistics, Machine Learning and Data Science can sometimes seem like very scary topics, but since each technique is really just a combination of small and simple steps, they are actually quite simple. My goal with StatQuest is to break down the major methodologies into easy to understand pieces. That said, I don't dumb down the material. Instead, I build up your understanding so that you are smarter.
+
+[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A): Videos about numbers - it's that simple.
+
+[TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug): The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.
 
 ## List
 
