@@ -104,6 +104,10 @@
 
 [JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
 
+## Matlab
+
+[A Quick Tutorial on MATLAB](https://web.eecs.umich.edu/~aey/eecs451/matlab.pdf)
+
 ## Linux
 
 [The Best Linux Tutorials](https://www.freecodecamp.org/news/the-best-linux-tutorials/)
