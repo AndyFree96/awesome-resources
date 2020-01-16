@@ -108,6 +108,10 @@
 
 [A Quick Tutorial on MATLAB](https://web.eecs.umich.edu/~aey/eecs451/matlab.pdf)
 
+[Introduction to MATLAB](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019/index.htm): This is an accelerated introduction to MATLAB® and its popular toolboxes. Lectures are interactive, with students conducting sample MATLAB problems in real time. The course includes problem-based MATLAB assignments. Students must provide their own laptop and software. This is great preparation for classes that use MATLAB.
+
+[Introduction To MATLAB Programming](https://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/): This course is intended to assist undergraduates with learning the basics of programming in general and programming MATLAB® in particular.
+
 ## Linux
 
 [The Best Linux Tutorials](https://www.freecodecamp.org/news/the-best-linux-tutorials/)
