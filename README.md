@@ -266,6 +266,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug): The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.
 
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
+
+[CrashCourse](https://www.youtube.com/user/crashcourse): Tons of awesome courses in one awesome channel! Nicole Sweeney teaches you sociology, Carrie Anne Philbin teaches you computer science, Craig Benzine teaches film history, and Mike Rugnetta is teaching mythology! Check out the playlists for past courses in physics, philosophy, games, economics, U.S. government and politics, astronomy, anatomy & physiology, world history, biology, literature, ecology, chemistry, psychology, and U.S. history.
+
 ## List
 
 [computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
