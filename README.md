@@ -92,7 +92,9 @@
 
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
-[istock](https://github.com/kingschan1204/istock): 👉一个基于spring boot 实现的java股票爬虫(仅支持A股)，如果你❤️请⭐️ . V2升级版正在开发中！ 
+[istock](https://github.com/kingschan1204/istock): 👉一个基于spring boot 实现的java股票爬虫(仅支持A股)，如果你❤️请⭐️ . V2升级版正在开发中！
+
+[vhr](https://github.com/lenve/vhr): 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 
 ## Go
 
