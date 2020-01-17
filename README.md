@@ -92,6 +92,8 @@
 
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
+[istock](https://github.com/kingschan1204/istock): 👉一个基于spring boot 实现的java股票爬虫(仅支持A股)，如果你❤️请⭐️ . V2升级版正在开发中！ 
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
