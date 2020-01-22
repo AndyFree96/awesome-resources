@@ -296,6 +296,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [awesome-courses](https://github.com/prakhar1989/awesome-courses): 📚 List of awesome university courses for learning Computer Science!
 
+[HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+
 ## Websites
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
