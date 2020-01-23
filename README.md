@@ -138,6 +138,8 @@
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 
+[Learning-SICP](https://github.com/DeathKing/Learning-SICP): MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+
 ## 游戏
 
 [Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
