@@ -82,6 +82,12 @@
 
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/archives.html)
 
+[httpstat](https://github.com/reorx/httpstat): httpstat 美化了 curl 的结果，使得结果更加可读。
+
+[reddit](https://github.com/reddit-archive/reddit): [reddit](https://www.reddit.com/) 网站的源码。
+
+[500lines](https://github.com/aosabook/500lines): 500 Lines or Less.
+
 ## Java
 
 [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -100,6 +106,12 @@
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
+[gogs](https://github.com/gogs/gogs): 用 Go 写的一款极易搭建的自助 Git 服务，支持所有平台。就像 GitLab 一样的服务，但是 GitLab 是基于 ruby 语言的。另外：完善的中文文档、支持 Go 语言支持的所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。
+
+## Ruby
+
+[discourse](https://github.com/discourse/discourse): A platform for community discussion. 
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
@@ -113,6 +125,10 @@
 [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 
 [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+
+## Swift
+
+[Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects): 30 mini Swift Apps for self-study.
 
 ## Matlab
 
@@ -139,6 +155,8 @@
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 
 [Learning-SICP](https://github.com/DeathKing/Learning-SICP): MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+
+[提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way): 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 
 ## 游戏
 
@@ -217,6 +235,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [40 Must-Read AI / Machine Learning Blogs](https://www.springboard.com/blog/machine-learning-blog/)
+
+[MLAlgorithms](https://github.com/rushter/MLAlgorithms): Minimal and clean examples of machine learning algorithms implementations.
 
 ## Recommendation System
 
@@ -299,6 +319,12 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [awesome-courses](https://github.com/prakhar1989/awesome-courses): 📚 List of awesome university courses for learning Computer Science!
 
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+
+[jstraining](https://github.com/ruanyf/jstraining): 全栈工程师培训材料
+
+## 开源书籍
+
+[pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 
 ## Websites
 
