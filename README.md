@@ -46,6 +46,8 @@
 
 ## C
 
+翁恺 [C语言程序设计](https://www.bilibili.com/video/av15267247)
+
 [Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
 
 [Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/index.htm#features)
@@ -177,6 +179,8 @@
 Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) and [Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
 
 邓俊辉 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) 和 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) [数据结构(C++语言版)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
+
+陈越 何钦铭 [数据结构](https://www.icourse163.org/course/ZJU-93001)
 
 [Data Structure by Saurabh Shukla Sir - YouTube](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3)
 
