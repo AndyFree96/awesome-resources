@@ -94,6 +94,8 @@
 
 [scrapydweb](https://github.com/my8100/scrapydweb): Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI.
 
+[manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
+
 ## Java
 
 [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
