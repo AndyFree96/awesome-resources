@@ -96,6 +96,8 @@
 
 [manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 
+[scylla](https://github.com/imWildCat/scylla): Intelligent proxy pool for Humans™
+
 ## Java
 
 [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -135,6 +137,8 @@
 [JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
 
 [cdfang-spider](https://github.com/lmjben/cdfang-spider): 成都房协网爬虫，可视化数据分析
+
+[request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
 
 ## Node.js
 
@@ -377,5 +381,7 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [Student-resources](https://github.com/ivmm/Student-resources): 本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。
 
 [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert): 从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT。
+
+[Web-Series](https://github.com/wx-chevalier/Web-Series): 📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 
 ![](./images/forkstar.png)
