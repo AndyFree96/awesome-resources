@@ -90,6 +90,10 @@
 
 [500lines](https://github.com/aosabook/500lines): 500 Lines or Less.
 
+[you-get](https://github.com/soimort/you-get): ⏬ Dumb downloader that scrapes the web
+
+[scrapydweb](https://github.com/my8100/scrapydweb): Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI.
+
 ## Java
 
 [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -110,7 +114,11 @@
 
 [gogs](https://github.com/gogs/gogs): 用 Go 写的一款极易搭建的自助 Git 服务，支持所有平台。就像 GitLab 一样的服务，但是 GitLab 是基于 ruby 语言的。另外：完善的中文文档、支持 Go 语言支持的所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。
 
-[pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 
+[pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+
+[unioffice](https://github.com/unidoc/unioffice): Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents.
+
+[geziyor](https://github.com/geziyor/geziyor): Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 
 ## Ruby
 
@@ -366,6 +374,6 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Student-resources](https://github.com/ivmm/Student-resources): 本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。
 
-[]()
+[from_coder_to_expert](https://github.com/0voice/from_coder_to_expert): 从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT。
 
 ![](./images/forkstar.png)
