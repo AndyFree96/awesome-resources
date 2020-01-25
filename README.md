@@ -110,6 +110,8 @@
 
 [gogs](https://github.com/gogs/gogs): 用 Go 写的一款极易搭建的自助 Git 服务，支持所有平台。就像 GitLab 一样的服务，但是 GitLab 是基于 ruby 语言的。另外：完善的中文文档、支持 Go 语言支持的所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。
 
+[pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 
+
 ## Ruby
 
 [discourse](https://github.com/discourse/discourse): A platform for community discussion. 
@@ -121,6 +123,8 @@
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
 [JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
+
+[cdfang-spider](https://github.com/lmjben/cdfang-spider): 成都房协网爬虫，可视化数据分析
 
 ## Node.js
 
@@ -357,5 +361,11 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
 
 [Github](https://github.com/)
+
+## 其它
+
+[Student-resources](https://github.com/ivmm/Student-resources): 本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。
+
+[]()
 
 ![](./images/forkstar.png)
