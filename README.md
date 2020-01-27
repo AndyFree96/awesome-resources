@@ -112,6 +112,10 @@
 
 [vhr](https://github.com/lenve/vhr): 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 
+[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
+
+[tech-weekly](https://github.com/mercyblitz/tech-weekly): 小马哥技术周报
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
