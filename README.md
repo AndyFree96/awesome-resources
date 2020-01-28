@@ -22,6 +22,8 @@
 
 [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)
 
+[SQL Tutorial for Beginners with MySQL](https://o7planning.org/en/10237/sql-tutorial-for-beginners-with-mysql#a23700)
+
 ## 分布式系统
 
 [Distributed Systems](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
