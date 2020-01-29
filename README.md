@@ -126,6 +126,8 @@
 
 [jblog](https://github.com/kingschan1204/jblog): 🔱一个简洁漂亮的java blog 👉基于Spring /MVC+ Hibernate + MySQL + Bootstrap + freemarker
 
+[SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler): 一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架;An agile, distributed crawler framework. 
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
