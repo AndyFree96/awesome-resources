@@ -120,7 +120,9 @@
 
 [web](https://github.com/Huomen/web/tree/web-psql): 适合java新手入门练习的java web个人网站项目，目前主要维护web-mysql和web-psql两个分支。前台包括博客、代码库、文件下载、留言、登录注册、站内搜索、分类目录等功能，后台包括上传文件、博客、代码，编辑、删除文章，修改个人资料等功能，目前暂停开发新功能。
 
-[mall](https://github.com/macrozheng/mall): mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 
+[mall](https://github.com/macrozheng/mall): mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。
+
+[halo](https://github.com/halo-dev/halo): ✍ Halo 一款现代化的个人独立博客系统
 
 ## Go
 
