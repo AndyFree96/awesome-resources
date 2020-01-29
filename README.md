@@ -124,6 +124,8 @@
 
 [halo](https://github.com/halo-dev/halo): ✍ Halo 一款现代化的个人独立博客系统
 
+[jblog](https://github.com/kingschan1204/jblog): 🔱一个简洁漂亮的java blog 👉基于Spring /MVC+ Hibernate + MySQL + Bootstrap + freemarker
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
