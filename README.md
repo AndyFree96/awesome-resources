@@ -110,6 +110,8 @@
 
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
+[JavaWeb学习总结](https://www.cnblogs.com/xdp-gacl/tag/JavaWeb%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/): 详尽的JavaWeb学习总结，Servlet/学习推荐阅读！
+
 [istock](https://github.com/kingschan1204/istock): 👉一个基于spring boot 实现的java股票爬虫(仅支持A股)，如果你❤️请⭐️ . V2升级版正在开发中！
 
 [vhr](https://github.com/lenve/vhr): 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
