@@ -18,6 +18,8 @@
 
 [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2014/schedule.html)
 
+[os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
+
 ## 数据库
 
 [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)
@@ -369,6 +371,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 ## 开源书籍
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
+
+## Interview
+
+[interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
 ## Websites
 
