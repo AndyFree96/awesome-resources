@@ -76,6 +76,8 @@
 
 [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
+[sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
+
 ## Python
 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
@@ -361,6 +363,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 
 [jstraining](https://github.com/ruanyf/jstraining): 全栈工程师培训材料
+
+[free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
 
 ## 开源书籍
 
