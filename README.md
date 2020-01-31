@@ -192,6 +192,12 @@
 
 [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 
+## Docker
+
+[Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+
+[Docker 微服务教程](http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html)
+
 ## Coding
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
@@ -376,7 +382,11 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
+[如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
+
 ## Websites
+
+[阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
