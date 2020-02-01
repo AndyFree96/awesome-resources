@@ -146,6 +146,8 @@
 
 [geziyor](https://github.com/geziyor/geziyor): Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 
+[annie](https://github.com/iawia002/annie): 👾 Fast, simple and clean video downloader
+
 ## Ruby
 
 [discourse](https://github.com/discourse/discourse): A platform for community discussion. 
