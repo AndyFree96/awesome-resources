@@ -134,6 +134,8 @@
 
 [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler): 一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架;An agile, distributed crawler framework. 
 
+[spring-boot-examples](https://github.com/ityouknow/spring-boot-examples): Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
