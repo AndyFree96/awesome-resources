@@ -136,6 +136,8 @@
 
 [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples): Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 
+[SpringAll](https://github.com/wuyouzhuguli/SpringAll): 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码。
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
