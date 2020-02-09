@@ -138,6 +138,8 @@
 
 [SpringAll](https://github.com/wuyouzhuguli/SpringAll): 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码。
 
+[My-Blog](https://github.com/ZHENFENG13/My-Blog): 🌴:octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
@@ -379,6 +381,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 [jstraining](https://github.com/ruanyf/jstraining): 全栈工程师培训材料
 
 [free-books](https://github.com/ruanyf/free-books): 互联网上的免费书籍
+
+[Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
 
 ## 开源书籍
 
