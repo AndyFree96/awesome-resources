@@ -396,6 +396,16 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
 
+## Tools
+
+[Glitch](https://glitch.com/)
+
+[CodePen](https://codepen.io/)
+
+[JS Bin](http://jsbin.com/)
+
+[JSFiddle](https://jsfiddle.net/)
+
 ## Websites
 
 [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
