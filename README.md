@@ -142,6 +142,8 @@
 
 [My-Blog](https://github.com/ZHENFENG13/My-Blog): 🌴:octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 
+[jsoup](https://jsoup.org): Java HTML Parser
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
