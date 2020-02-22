@@ -174,6 +174,8 @@
 
 [request](https://github.com/request/request): 🏊🏾 Simplified HTTP request client.
 
+[vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+
 ## Node.js
 
 [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
