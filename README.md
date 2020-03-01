@@ -336,6 +336,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
 
+[nlp_course](https://github.com/yandexdataschool/nlp_course): YSDA course in Natural Language Processing
+
 ## Self-Driving Cars
 
 [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
