@@ -182,6 +182,8 @@
 
 [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 
+[Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code): 🔥 🔥逐行剖析Vue.js源码 在线阅读地址https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
+
 ## Node.js
 
 [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
