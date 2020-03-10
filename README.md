@@ -162,6 +162,8 @@
 
 [annie](https://github.com/iawia002/annie): 👾 Fast, simple and clean video downloader
 
+[7days-golang](https://github.com/geektutu/7days-golang): 7 days golang apps from scratch
+
 ## Ruby
 
 [discourse](https://github.com/discourse/discourse): A platform for community discussion. 
