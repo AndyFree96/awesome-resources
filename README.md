@@ -404,6 +404,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
 
+[ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources): A collection of the best resources for programming, web development, computer science and more.
+
 ## 开源书籍
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
