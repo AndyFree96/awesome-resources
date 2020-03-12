@@ -428,6 +428,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 ## Websites
 
+[ZetCode](http://zetcode.com/all/)
+
 [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
