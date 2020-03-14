@@ -426,6 +426,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [JSFiddle](https://jsfiddle.net/)
 
+[IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial): IntelliJ IDEA 简体中文专题教程
+
 ## Websites
 
 [ZetCode](http://zetcode.com/all/)
