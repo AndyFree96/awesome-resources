@@ -232,6 +232,10 @@
 
 [Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
 
+## Elasticsearch
+
+[Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+
 ## Data Structure & Algorithms
 
 [What is your strategy for learning data structures and algorithms?](https://www.freecodecamp.org/forum/t/what-is-your-strategy-for-learning-data-structures-and-algorithms/86995/5)
