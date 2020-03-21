@@ -434,6 +434,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 ## Websites
 
+[Made With ML - Share what you've made with ML](https://madewithml.com/)
+
 [ZetCode](http://zetcode.com/all/)
 
 [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
