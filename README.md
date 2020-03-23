@@ -414,6 +414,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 
+[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching): 自学是门手艺
+
 ## Interview
 
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
