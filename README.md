@@ -424,6 +424,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
 
+## 工作
+
+[Job-Recommend](https://github.com/CyC2018/Job-Recommend): 🔎 互联网内推信息（社招、校招、实习）
+
 ## Tools
 
 [Glitch](https://glitch.com/)
