@@ -426,6 +426,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
 
+[CS-Notes](https://github.com/CyC2018/CS-Notes):  📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ 
+
 ## 工作
 
 [Job-Recommend](https://github.com/CyC2018/Job-Recommend): 🔎 互联网内推信息（社招、校招、实习）
