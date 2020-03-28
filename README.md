@@ -444,6 +444,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial): IntelliJ IDEA 简体中文专题教程
 
+[Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
+
 ## Websites
 
 [阿里云开发者社区](https://developer.aliyun.com) 
