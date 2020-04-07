@@ -112,6 +112,8 @@
 
 [scylla](https://github.com/imWildCat/scylla): Intelligent proxy pool for Humans™
 
+[wttr.in](https://github.com/chubin/wttr.in): ⛅️ The right way to check the weather https://wttr.in
+
 ## Java
 
 [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -151,6 +153,8 @@
 [jsoup](https://jsoup.org): Java HTML Parser
 
 [JavaGuide](https://github.com/Snailclimb/JavaGuide): 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+[MusicPlayer](https://github.com/Mpmart08/MusicPlayer): Desktop Music Player for Windows and Mac using JavaFX/Java 8
 
 ## Go
 
