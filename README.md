@@ -156,6 +156,8 @@
 
 [MusicPlayer](https://github.com/Mpmart08/MusicPlayer): Desktop Music Player for Windows and Mac using JavaFX/Java 8
 
+[giffun](https://github.com/guolindev/giffun): 一款开源的GIF在线分享App，乐趣就要和世界分享。
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
