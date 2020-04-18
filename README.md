@@ -158,6 +158,8 @@
 
 [giffun](https://github.com/guolindev/giffun): 一款开源的GIF在线分享App，乐趣就要和世界分享。
 
+[symphony](https://github.com/88250/symphony): 🎶 A modern community (forum/BBS/SNS/blog) platform implemented in Java. 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
