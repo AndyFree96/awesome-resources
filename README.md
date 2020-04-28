@@ -124,6 +124,8 @@
 
 [Java Tutorial, Java EE Tutorials](https://www.journaldev.com/java-tutorial-java-ee-tutorials)
 
+[深入浅出Java多线程](http://concurrent.redspider.group/)
+
 [JavaWeb学习总结](https://www.cnblogs.com/xdp-gacl/tag/JavaWeb%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/): 详尽的JavaWeb学习总结，Servlet/学习推荐阅读！
 
 [istock](https://github.com/kingschan1204/istock): 👉一个基于spring boot 实现的java股票爬虫(仅支持A股)，如果你❤️请⭐️ . V2升级版正在开发中！
