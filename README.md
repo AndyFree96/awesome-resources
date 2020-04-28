@@ -424,6 +424,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources): A collection of the best resources for programming, web development, computer science and more.
 
+[Teach Yourself Computer Science](https://teachyourselfcs.com/): If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
+
 ## 开源书籍
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
