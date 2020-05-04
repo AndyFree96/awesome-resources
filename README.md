@@ -460,6 +460,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 ## Websites
 
+[Java Guides](https://www.javaguides.net/)
+
 [阿里云开发者社区](https://developer.aliyun.com) 
 
 [Made With ML - Share what you've made with ML](https://madewithml.com/)
