@@ -162,6 +162,8 @@
 
 [symphony](https://github.com/88250/symphony): 🎶 A modern community (forum/BBS/SNS/blog) platform implemented in Java. 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
 
+[cim](https://github.com/crossoverJie/cim): 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
