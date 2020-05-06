@@ -428,6 +428,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/): If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
 
+[coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+
 ## 开源书籍
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
