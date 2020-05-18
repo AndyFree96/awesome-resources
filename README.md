@@ -436,6 +436,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching): 自学是门手艺
 
+[webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn): 中文翻译 《 Real-Time Communication with WebRTC 》
+
 ## Interview
 
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
