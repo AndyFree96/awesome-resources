@@ -164,6 +164,8 @@
 
 [cim](https://github.com/crossoverJie/cim): 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
 
+[advanced-java](https://github.com/doocs/advanced-java): 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
 ## Go
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
