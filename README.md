@@ -370,6 +370,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [nlp_course](https://github.com/yandexdataschool/nlp_course): YSDA course in Natural Language Processing
 
+## Anomaly Detection
+
+[anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources): Anomaly detection related books, papers, videos, and toolboxes
+
 ## Self-Driving Cars
 
 [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
