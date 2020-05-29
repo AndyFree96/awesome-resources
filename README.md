@@ -344,6 +344,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
 
+[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/): A Free course in Deep Reinforcement Learning from beginner to expert.
 
 ## Deep Learning
