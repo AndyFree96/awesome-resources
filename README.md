@@ -356,6 +356,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 ## Deep Learning
 
+[Dive into Deep Learning](https://d2l.ai/): An interactive deep learning book with code, math, and discussions. Provides both NumPy/MXNet and PyTorch implementations
+
 [Practical Deep Learning for Coders](https://course.fast.ai/index.html)
 
 [深度学习入门：基于Python的理论与实现](https://book.douban.com/subject/30270959/)
