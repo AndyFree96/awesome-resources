@@ -440,6 +440,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
 
+[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs): 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。
+
 [ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources): A collection of the best resources for programming, web development, computer science and more.
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/): If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
