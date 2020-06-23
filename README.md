@@ -368,6 +368,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions): 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 
+[MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/): MIT's official introductory course on deep learning methods with applications in robotics, and more!
+
 ## CV
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
