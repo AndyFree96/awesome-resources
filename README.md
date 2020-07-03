@@ -90,6 +90,8 @@
 
 ## Python
 
+[c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started): Sample code for Channel 9 Python for Beginners course
+
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
 
 [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)
@@ -209,6 +211,8 @@
 [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 
 [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+
+[Nodejs-Roadmap](https://github.com/qufei1993/Nodejs-Roadmap): 【Nodejs-Roadmap】侧重于 Node.js 服务端的开发指南
 
 ## Swift
 
