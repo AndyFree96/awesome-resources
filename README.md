@@ -540,4 +540,6 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Web-Series](https://github.com/wx-chevalier/Web-Series): 📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 
+[document-style-guide](https://github.com/ruanyf/document-style-guide): 中文技术文档的写作规范
+
 ![](./images/forkstar.png)
