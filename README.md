@@ -20,6 +20,8 @@
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial): How to create an OS from scratch
 
+李治军 [操作系统](https://www.bilibili.com/video/BV1d4411v7u7) [哈工大操作系统实验手册](https://hoverwinter.gitbooks.io/hit-oslab-manual/content/index.html) 实验楼 [操作系统原理与实践](https://www.shiyanlou.com/courses/115)
+
 ## 数据库
 
 [6.830/6.814: Database Systems](http://db.csail.mit.edu/6.830/)
