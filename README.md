@@ -494,6 +494,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
 
+[EndNote_Tutorial_Hand_by_Hand](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand): 手把手教你使用 EndNote X9/NoteExpress 
+
+[HistCite_Tutorial](https://github.com/wanzhenchn/HistCite_Tutorial): HistCite快速定位核心文献 
+
 ## Websites
 
 [深入浅出现代Web编程](https://fullstackopen.com/zh)
