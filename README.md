@@ -290,6 +290,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 
+[Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+
 ## Math
 
 [麻省理工学院公开课：单变量微积分](http://open.163.com/special/sp/singlevariablecalculus.html) 和 [麻省理工学院公开课：单变量微积分习题课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcalculus.html)
