@@ -462,6 +462,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 
+[Project Based Learning](https://github.com/tuvtran/project-based-learning): A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
+
 ## 开源书籍
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
