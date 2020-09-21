@@ -90,6 +90,10 @@
 
 [sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 
+## C#
+
+[Learn C# by Building a Simple RPG](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/): If you want to write a Role Playing Game, but don’t know how to program, or just want to learn how to program in C#, then you’re at right the place.
+
 ## Python
 
 [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started): Sample code for Channel 9 Python for Beginners course
