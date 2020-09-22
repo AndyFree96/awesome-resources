@@ -88,6 +88,8 @@
 
 [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
+[跟侯捷学C++](https://mooc.study.163.com/smartSpec/detail/1001137001.htm): 系统学习C++知识体系。
+
 [sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 
 ## C#
