@@ -508,6 +508,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [HistCite_Tutorial](https://github.com/wanzhenchn/HistCite_Tutorial): HistCite快速定位核心文献 
 
+[Resources to learn Git](https://try.github.io/)
+
 ## Websites
 
 [深入浅出现代Web编程](https://fullstackopen.com/zh)
