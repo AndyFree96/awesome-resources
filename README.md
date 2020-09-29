@@ -316,6 +316,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 马昱春 [组合数学](http://www.xuetangx.com/courses/course-v1:TsinghuaX+60240013X+sp/about)
 
+[Seeing Theory](https://seeing-theory.brown.edu/): A visual introduction to probability and statistics.
+
 ## Kaggle
 
 [The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
