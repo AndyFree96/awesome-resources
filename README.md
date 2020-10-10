@@ -216,6 +216,8 @@
 
 [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/): Do all 100+ of the listed JavaScript Projects for beginners that you'll find on this page.
 
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 ## Node.js
 
 [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
