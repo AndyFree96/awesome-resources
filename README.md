@@ -390,6 +390,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/): MIT's official introductory course on deep learning methods with applications in robotics, and more!
 
+[Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap): About Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
 ## CV
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
