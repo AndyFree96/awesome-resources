@@ -478,7 +478,7 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [Project Based Learning](https://github.com/tuvtran/project-based-learning): A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
 
-[build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 🤓 Build your own (insert technology here)
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 🤓 Build your own (insert technology here)  ⭐⭐⭐⭐⭐
 
 ## 开源书籍
 
