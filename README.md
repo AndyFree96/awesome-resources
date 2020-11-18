@@ -422,6 +422,10 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [哈佛大学公开课：幸福课](http://open.163.com/special/positivepsychology/)
 
+## 文学
+
+[紅樓夢 歐麗娟](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S120): 本課程以《紅樓夢》為範圍，區分為文化與人物論兩大範疇。在文化方面，由於《紅樓夢》吸納傳統中國文學與文化的涵蓋面甚廣，將涉及「神話運用與詮釋」、「讖語式的表達」、「悟道模式」、「遊仙模式」、「喜劇精神」...
+
 ## Youtube
 
 [Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
