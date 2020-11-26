@@ -72,6 +72,8 @@
 
 [json-tutorial](https://github.com/miloyip/json-tutorial): 从零开始的 JSON 库教程。
 
+[project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c): A curated list of project-based tutorials in C
+
 ## C++
 
 郑莉 [C++语言程序设计基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about) 和 [C++语言程序设计进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about)
