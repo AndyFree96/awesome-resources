@@ -486,6 +486,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 🤓 Build your own (insert technology here)  ⭐⭐⭐⭐⭐
 
+[awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming): 💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
 ## 开源书籍
 
 [pydata-notebook](https://github.com/BrambleXu/pydata-notebook): 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
