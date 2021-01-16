@@ -94,6 +94,10 @@
 
 [sudoku](https://github.com/mayerui/sudoku): C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 
+[LearnCpp.com](https://www.learncpp.com/): LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
+
+[Learn OpenGL](https://learnopengl.com/): Welcome to the online book for learning OpenGL! Whether you are trying to learn OpenGL for academic purposes, to pursue a career or simply looking for a hobby, this book will teach you the basics, the intermediate, and all the advanced knowledge using modern (core-profile) OpenGL. The aim of LearnOpenGL is to show you all there is to modern OpenGL in an easy-to-understand fashion with clear examples, while also providing a useful reference for later studies.
+
 ## C#
 
 [Learn C# by Building a Simple RPG](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/): If you want to write a Role Playing Game, but don’t know how to program, or just want to learn how to program in C#, then you’re at right the place.
