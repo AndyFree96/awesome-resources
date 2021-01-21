@@ -204,6 +204,12 @@
 
 [discourse](https://github.com/discourse/discourse): A platform for community discussion. 
 
+## R
+
+[R for Graduate Students](https://rafalab.github.io/dsbook/)
+
+[Introduction to Data Science](https://rafalab.github.io/dsbook/)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
