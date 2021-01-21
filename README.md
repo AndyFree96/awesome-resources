@@ -210,6 +210,8 @@
 
 [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 
+[R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
