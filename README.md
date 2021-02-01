@@ -562,6 +562,8 @@ Stanford Algorithm [Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q
 
 [DEV](https://dev.to/)
 
+[hashnode](https://hashnode.com/)
+
 [MDN web docs](https://developer.mozilla.org/)
 
 [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed_navbar)
