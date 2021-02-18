@@ -212,6 +212,8 @@
 
 [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
+[Data Visualization with R](https://rkabacoff.github.io/datavis/): R is an amazing platform for data analysis, capable of creating almost any type of graph. This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
