@@ -206,13 +206,15 @@
 
 ## R
 
-[R for Graduate Students](https://rafalab.github.io/dsbook/)
+[R for Graduate Students](https://bookdown.org/yih_huynh/Guide-to-R-Book/): 
 
 [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 
 [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
 [Data Visualization with R](https://rkabacoff.github.io/datavis/): R is an amazing platform for data analysis, capable of creating almost any type of graph. This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
+
+[R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/): This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
 
 ## JavaScript
 
