@@ -242,6 +242,10 @@
 
 [Nodejs-Roadmap](https://github.com/qufei1993/Nodejs-Roadmap): 【Nodejs-Roadmap】侧重于 Node.js 服务端的开发指南
 
+## Julia
+
+[From zero to Julia!](https://techytok.com/from-zero-to-julia/): An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics.
+
 ## Swift
 
 [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects): 30 mini Swift Apps for self-study.
