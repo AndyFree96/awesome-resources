@@ -218,6 +218,8 @@
 
 [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
 
+[UC Business Analytics R Programming Guide](http://uc-r.github.io/)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
