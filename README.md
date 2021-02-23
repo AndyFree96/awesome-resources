@@ -216,6 +216,8 @@
 
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/): This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
 
+[李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
