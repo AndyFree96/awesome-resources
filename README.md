@@ -206,7 +206,7 @@
 
 ## R
 
-[R for Graduate Students](https://bookdown.org/yih_huynh/Guide-to-R-Book/): 
+[R for Graduate Students](https://bookdown.org/yih_huynh/Guide-to-R-Book/)
 
 [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 
