@@ -220,6 +220,10 @@
 
 [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
 
+[The openair book Tools for air quality data analysis](https://bookdown.org/david_carslaw/openair/)
+
+[R CODER](https://r-coder.com/): Begin your data science career with R language!
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
