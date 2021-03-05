@@ -224,6 +224,8 @@
 
 [R CODER](https://r-coder.com/): Begin your data science career with R language!
 
+[Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
