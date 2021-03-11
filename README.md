@@ -226,6 +226,8 @@
 
 [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
+[Mastering Spark with R](https://therinspark.com/)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
