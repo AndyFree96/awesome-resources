@@ -230,6 +230,12 @@
 
 [Mastering Spark with R](https://therinspark.com/)
 
+[Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
+
+[R for Data Science](https://r4ds.had.co.nz/index.html)
+
+[Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/index.html)
+
 ## JavaScript
 
 [JavaScript Tutorial](https://www.w3schools.com/js/)
