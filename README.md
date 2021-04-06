@@ -216,6 +216,10 @@
 
 [Data Visualization with R](https://rkabacoff.github.io/datavis/): R is an amazing platform for data analysis, capable of creating almost any type of graph. This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
 
+[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/): This is the on-line version of work-in-progress 3rd edition of “ggplot2: elegant graphics for data analysis” published by Springer. You can learn what’s changed from the 2nd edition in the Preface.
+
+[R Graphics Cookbook, 2nd edition](https://r-graphics.org/): Welcome to the R Graphics Cookbook, a practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
+
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/): This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
 
 [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
